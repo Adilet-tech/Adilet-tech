@@ -13,22 +13,30 @@
 
 ---
 
-### ⚙️ Tech Universe
+## ⚙️ Tech Universe
 
-#### 💻 Languages & Frameworks  
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,reactnative,spring,fastapi" />
-</p>
+### 💻 Languages & Frameworks
+- **Java** <img src="https://skillicons.dev/icons?i=java" width="25" height="25" />
+- **Python** <img src="https://skillicons.dev/icons?i=python" width="25" height="25" />
+- **JavaScript** <img src="https://skillicons.dev/icons?i=javascript" width="25" height="25" />
+- **React** <img src="https://skillicons.dev/icons?i=react" width="25" height="25" />
+- **Spring Boot** <img src="https://skillicons.dev/icons?i=spring" width="25" height="25" />
+- **FastAPI** <img src="https://skillicons.dev/icons?i=fastapi" width="25" height="25" />
 
-#### 🧠 Tools & Databases  
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,docker,git,github,elasticsearch" />
-</p>
+---
 
-#### 🧪 Testing & QA  
-<p>
-  <img src="https://skillicons.dev/icons?i=selenium,postman" />
-</p>
+### 🧠 Tools & Databases
+- **PostgreSQL** <img src="https://skillicons.dev/icons?i=postgresql" width="25" height="25" />
+- **Docker** <img src="https://skillicons.dev/icons?i=docker" width="25" height="25" />
+- **Git** <img src="https://skillicons.dev/icons?i=git" width="25" height="25" />
+- **GitHub** <img src="https://skillicons.dev/icons?i=github" width="25" height="25" />
+
+---
+
+### 🧪 Testing & QA
+- **Selenium** <img src="https://skillicons.dev/icons?i=selenium" width="25" height="25" />
+- **Postman** <img src="https://skillicons.dev/icons?i=postman" width="25" height="25" />
+- **Playwright** <img src="https://skillicons.dev/icons?i=playwright" width="25" height="25" />
 
 ---
 
@@ -52,7 +60,7 @@ Tech: `Spring Boot` • `PostgreSQL` • `Liquibase` • `Docker Compose`
 ---
 
 ### ✨ Quick Facts
-- 🎓 2nd-year student at **IITU**  
+- 🎓 3rd-year student at **IITU**  
 - 🧪 Worked as a **QA Engineer** — manual & API testing  
 - 🌍 Participated in **Work & Travel USA** 🇺🇸  
 - 💭 Dream: pursue **MSc in MTEC @ ETH Zurich** 🇨🇭  
@@ -61,8 +69,8 @@ Tech: `Spring Boot` • `PostgreSQL` • `Liquibase` • `Docker Compose`
 
 ### 📫 Connect With Me  
 <p align="center">
-  <a href="mailto:adilet.toktarbay@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/adilet-toktarbay"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:toktarbayadik@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/adilet-toktarbay"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Adilet-tech"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
